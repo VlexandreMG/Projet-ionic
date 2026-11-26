@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.mrrojo.objetsperdus',
-  appName: 'tabs',
+  appName: 'Objets Perdus',
   webDir: 'dist'
 };
 
